@@ -1,5 +1,5 @@
 ## Project Background :
-Atliq is an online retailer for electronic products. Atliq has multiple sales channels including direct, distributor and retailer with physical stores and online presence. Atliq’s customers are in various countries across Asian Pacific, North America, South America and Europe. Atliq offers about 400 product SKUs in over 10 categories like mouse, processors, laptops, keyboard, etc. customized for personal and professional users. With over 1 million sales record in the period of 5 years, the business managers want to make strategic decisions based on the health of their global operation.
+Atliq is an online retailer for electronic products. Atliq has multiple sales channels including direct, distributor and retailer with physical stores and online presence. Atliq’s customers are in various countries across Asian Pacific, North America, South America and Europe. Atliq offers about 400 product SKUs in over 10 categories like mouse, processors, laptops, keyboard, etc. customized for personal and professional users. With over half million sales record in the period of 3 years, the business managers want to make strategic decisions based on the health of their global operation.
 
 
 ## Dataset :
